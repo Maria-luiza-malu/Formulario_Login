@@ -102,3 +102,19 @@ button{
     font-family: "Montserrat";
     
 }
+
+footer{
+    background-color:  #654597;
+    color: white;
+    position: absolute;
+    bottom: 0%;
+    width: 100%;
+    font-size: 0.8em;
+    padding: 5px;
+}
+
+footer a{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
